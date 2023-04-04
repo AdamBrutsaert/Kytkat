@@ -1,0 +1,785 @@
+[
+  {
+    "text": "Learning with training labels corresponds to",
+    "answers": [
+      "Reinforcement learning",
+      "Cluster learning",
+      "Unsupervised learning",
+      "Supervised learning"
+    ],
+    "correct": 3,
+    "sources": ["https://youtu.be/4qVRBYAdLAo?t=97"]
+  },
+  {
+    "text": "What is the purpose of a web crawler ?",
+    "answers": [
+      "To gather lots of data",
+      "To analyse HTML code",
+      "To secure online communications",
+      "To optimize data streaming"
+    ],
+    "correct": 0,
+    "sources": ["https://youtu.be/PnFwdCGmVG0?t=182"]
+  },
+  {
+    "text": "In supervised learning, where do the training labels come from ?",
+    "answers": [
+      "From AI policy",
+      "From the environment",
+      "From the AI agent",
+      "From a teacher"
+    ],
+    "correct": 3,
+    "sources": ["https://youtu.be/4qVRBYAdLAo?t=107"]
+  },
+  {
+    "text": "Which statement is true about AI ?",
+    "answers": [
+      "Some neural networks have been used to generate new Harry Potter chapters",
+      "All these statements are true",
+      "Actually, nothing proves that we are not AIs inside a simulation",
+      "Lexus released a commecial written entirely by an AI"
+    ],
+    "correct": 1,
+    "sources": [
+      "https://www.theverge.com/2017/12/12/16768582/harry-potter-ai-fanfiction",
+      "https://www.youtube.com/watch?v=a2_smFoqQUg",
+      "https://www.scientificamerican.com/article/do-we-live-in-a-simulation-chances-are-about-50-50/"
+    ]
+  },
+  {
+    "text": "What is the purpose of optimization ?",
+    "answers": [
+      "To increase the amount of neurons in a neural network",
+      "To speed up a neural network",
+      "To increase the accuracy of a neural network",
+      "To speed up data gathering of a neural network"
+    ],
+    "correct": 2,
+    "sources": ["https://youtu.be/lgKrup5oi_A?t=64"]
+  },
+  {
+    "text": "What is the name of Google’s Natural Language Processing ?",
+    "answers": ["IRIS", "Deep Mind", "BERT", "GNLP"],
+    "correct": 2,
+    "sources": ["https://en.wikipedia.org/wiki/BERT_(language_model)"]
+  },
+  {
+    "text": "What does GAN stand for ?",
+    "answers": [
+      "Groupe des Assurances Nouvelles",
+      "Generative Adversarial Networks",
+      "Nothing",
+      "Gary, Algernop & Nilsen, the creators names"
+    ],
+    "correct": 1,
+    "sources": ["https://en.wikipedia.org/wiki/Generative_adversarial_network"]
+  },
+  {
+    "text": "Which statement is false?",
+    "answers": [
+      "Robots may have stereoscopic version like humans",
+      "Robots can see dead people",
+      "LIDAR works as RADAR, but use light instead of sound",
+      "Robots can see things that humans don’t"
+    ],
+    "correct": 1,
+    "sources": [
+      "https://youtu.be/_U21fT8VLp0?t=212",
+      "https://youtu.be/_U21fT8VLp0?t=217",
+      "https://youtu.be/_U21fT8VLp0?t=240"
+    ]
+  },
+  {
+    "text": "What’s the goal of minimax algorithm ?",
+    "answers": [
+      "Encrypting data",
+      "Encoding video",
+      "Winning games",
+      "Predicting weather"
+    ],
+    "correct": 2,
+    "sources": ["https://youtu.be/nw7zmdBLQ6U?t=311"]
+  },
+  {
+    "text": "Closed loop control helps robots to get continuous feedback?",
+    "answers": ["Non applicable", "False", "It depends", "True"],
+    "correct": 3,
+    "sources": ["https://youtu.be/_U21fT8VLp0?t=420"]
+  },
+  {
+    "text": "What are the major goals of AI ?",
+    "answers": [
+      "Robotics",
+      "All these goals",
+      "Natural Language Processing",
+      "Machine learning"
+    ],
+    "correct": 1,
+    "sources": ["https://www.javatpoint.com/goals-of-artificial-intelligence"]
+  },
+  {
+    "text": "While planning, robots need to define",
+    "answers": ["Preconditions", "Actions", "Consequences", "Effects"],
+    "correct": 1,
+    "sources": ["https://youtu.be/_U21fT8VLp0?t=305"]
+  },
+  {
+    "text": "Robots can learn new actions all by themseleves",
+    "answers": [
+      "False",
+      "There's no such thing as new action",
+      "True",
+      "Robots can't learn"
+    ],
+    "correct": 0,
+    "sources": ["https://youtu.be/_U21fT8VLp0?t=54"]
+  },
+  {
+    "text": "In unsupervised learning, where do the training labels come from ?",
+    "answers": [
+      "From the environment",
+      "From the AI agent",
+      "From AI policy",
+      "From a teacher"
+    ],
+    "correct": 0,
+    "sources": ["https://youtu.be/JnnaDNNb380?t=65"]
+  },
+  {
+    "text": "Which statement is false about machines languages ?",
+    "answers": [
+      "Machine languages follow highly structured conventions",
+      "A word from a machine language can have two meanings",
+      "Machine language can be considered as a language",
+      "Machine languages tend to have smaller vocabulary than human languages"
+    ],
+    "correct": 1,
+    "sources": [
+      "https://fr.wikipedia.org/wiki/Langage_machine#Instructions_du_langage"
+    ]
+  },
+  {
+    "text": "What is Watson ?",
+    "answers": [
+      "An IBM supercomputer built to predict finance",
+      "An IBM supercomputer built to help police forces",
+      "An IBM supercomputer built to answer questions",
+      "An IBM supercomputer built to forecast weather"
+    ],
+    "correct": 2,
+    "sources": [
+      "https://fr.wikipedia.org/wiki/Watson_(intelligence_artificielle)"
+    ]
+  },
+  {
+    "text": "In Robotics, what is SLAM?",
+    "answers": [
+      "It stands for “Strategic Long-Range Artillery Machine”",
+      "It stands for “Simultaneous Localization and Mapping”",
+      "It is a project from Microsoft",
+      "It is a famous contest"
+    ],
+    "correct": 1,
+    "sources": ["https://youtu.be/_U21fT8VLp0?t=196"]
+  },
+  {
+    "text": "Learning without training labels corresponds to",
+    "answers": [
+      "Reinforcement learning",
+      "Supervised learning",
+      "Classification learning",
+      "Unsupervised learning"
+    ],
+    "correct": 3,
+    "sources": ["https://youtu.be/JnnaDNNb380?t=66"]
+  },
+  {
+    "text": "What are Intel Coach and Google Dopamine ?",
+    "answers": [
+      "Reinforcement learning libraries",
+      "Statistical algorithms",
+      "New voice user interfaces",
+      "Deep-learning neural networks"
+    ],
+    "correct": 0,
+    "sources": [
+      "https://github.com/google/dopamine",
+      "https://github.com/IntelLabs/coach"
+    ]
+  },
+  {
+    "text": "In robotics, localization is all about",
+    "answers": [
+      "Knowing where you are",
+      "Knowing why you are",
+      "Knowing where you go",
+      "Knowing how you go somewhere else"
+    ],
+    "correct": 0,
+    "sources": ["https://youtu.be/_U21fT8VLp0?t=134"]
+  },
+  {
+    "text": "Which tool improved the accuracy of speech recognition ?",
+    "answers": ["Mapping", "Linguistics", "Statistics", "Machine Learning"],
+    "correct": 3,
+    "sources": ["https://youtu.be/fOvTtapxa9c?t=387"]
+  },
+  {
+    "text": "What are the two main steps of K-means clustering algorithm ?",
+    "answers": [
+      "Law & Order",
+      "Cluster & Action",
+      "Predict & Learn",
+      "State & Action"
+    ],
+    "correct": 2,
+    "sources": ["https://youtu.be/JnnaDNNb380?t=245"]
+  },
+  {
+    "text": "Conceptually, supervised learning, learn from",
+    "answers": ["Success", "Failure", "-", "-"],
+    "correct": 1,
+    "sources": ["https://youtu.be/4qVRBYAdLAo?t=107"]
+  },
+  {
+    "text": "A classroom with teacher is",
+    "answers": [
+      "Cluster analysis",
+      "Reinforcement learning",
+      "Unsupervised learning",
+      "Supervised learning"
+    ],
+    "correct": 3,
+    "sources": ["https://youtu.be/nIgIv4IfJ6s?t=44"]
+  },
+  {
+    "text": "Who said “The unsupervised learning is the ultimate answer ?”",
+    "answers": ["Alan Turing", "Claude Shannon", "Yann LeCun", "John McCarty"],
+    "correct": 2,
+    "sources": ["https://youtu.be/JnnaDNNb380?t=645"]
+  },
+  {
+    "text": "Which thing of learning needs “Reward” ?",
+    "answers": [
+      "Unsupervised learning",
+      "Neural networks",
+      "Supervised learning",
+      "Reinforcement learning"
+    ],
+    "correct": 3,
+    "sources": ["https://youtu.be/nIgIv4IfJ6s?t=101"]
+  },
+  {
+    "text": "What is the purpose of updating the weights of a neural network ?",
+    "answers": [
+      "To increase global speed of connections in the network",
+      "To increase the amount of neurons in the network",
+      "To increase the number of connections in the network",
+      "To get better predictions next time"
+    ],
+    "correct": 3,
+    "sources": ["https://youtu.be/lgKrup5oi_A?t=64"]
+  },
+  {
+    "text": "Which developement in computing enhanced AI revolution ?",
+    "answers": [
+      "CPU power and speed increases",
+      "Discoveries about quantum computing",
+      "Creation of Python language",
+      "Learning machine invention"
+    ],
+    "correct": 0,
+    "sources": ["https://youtu.be/a0_lo_GDcFw?t=454"]
+  },
+  {
+    "text": "Which statement is true about machine languages ?",
+    "answers": [
+      "They are understood only if they contains less than 1% error",
+      "They are understood even if there are some syntactic errors",
+      "They do not tolerate errors",
+      "They are understood even if they are some spelling errors"
+    ],
+    "correct": 2,
+    "sources": ["https://www.javatpoint.com/what-is-machine-language"]
+  },
+  {
+    "text": "Who coined the terms “Artificial Intelligence” ?",
+    "answers": [
+      "Arthur Lee Samuel",
+      "Marvin Lee Minsky",
+      "John McCarty",
+      "Claude Elwood Shannon"
+    ],
+    "correct": 2,
+    "sources": ["https://youtu.be/a0_lo_GDcFw?t=291"]
+  },
+  {
+    "text": "In robotics, localization comes before planning",
+    "answers": ["It depends", "False", "True", "Non applicable"],
+    "correct": 2,
+    "sources": ["https://youtu.be/_U21fT8VLp0?t=124"]
+  },
+  {
+    "text": "When an AI tries to find patterns on its own, it is",
+    "answers": [
+      "Unsupervised learning",
+      "Reinforcement learning",
+      "Supervised learning",
+      "Cluster Analysis"
+    ],
+    "correct": 0,
+    "sources": ["https://youtu.be/JnnaDNNb380?t=78"]
+  },
+  {
+    "text": "AI might struggle with",
+    "answers": ["Metaphors", "All these answers", "Creativity", "Irony"],
+    "correct": 1,
+    "sources": []
+  },
+  {
+    "text": "AI systems do more like",
+    "answers": ["Kids", "Adults", "Babies", "Teenagers"],
+    "correct": 2,
+    "sources": ["https://youtu.be/a0_lo_GDcFw?t=369"]
+  },
+  {
+    "text": "Who is Elon Musk ?",
+    "answers": [
+      "Founder and CEO of Neuralink",
+      "Founder, CEO & CTO of SpaceX",
+      "Co-founder and CEO of Tesla Inc.",
+      "All these answers"
+    ],
+    "correct": 3,
+    "sources": ["https://fr.wikipedia.org/wiki/Elon_Musk"]
+  },
+  {
+    "text": "Representation learning happens in",
+    "answers": [
+      "Supervised learning",
+      "Unsupervised learning",
+      "Neither one",
+      "Both supervised and unsupervised learning"
+    ],
+    "correct": 3,
+    "sources": ["https://youtu.be/JnnaDNNb380?t=486"]
+  },
+  {
+    "text": "AI systems could help humans to make decisions because",
+    "answers": [
+      "They have intuition",
+      "They can solve any human problem",
+      "They are good and fast at evaluating many possibilities",
+      "They never fail"
+    ],
+    "correct": 2,
+    "sources": ["https://youtu.be/PIAPzioNt9Y?t=57"]
+  },
+  {
+    "text": "If it exists, there is only one way to get to a problem's solution",
+    "answers": [
+      "True",
+      "Both true and false",
+      "Neither true nor false",
+      "False"
+    ],
+    "correct": 3,
+    "sources": ["https://chat.openai.com/chat"]
+  },
+  {
+    "text": "Which core problems of robotics go hand in hand ?",
+    "answers": [
+      "Localization & Planning",
+      "Planning & Improvisation",
+      "Localization & Manipulation",
+      "Manipulation & Plannning"
+    ],
+    "correct": 0,
+    "sources": ["https://youtu.be/_U21fT8VLp0?t=141"]
+  },
+  {
+    "text": "What is the hardest part of reinforcement learning ?",
+    "answers": [
+      "Policy and values",
+      "Trial and error",
+      "Actions and state",
+      "Credit assignement"
+    ],
+    "correct": 3,
+    "sources": ["https://youtu.be/nIgIv4IfJ6s?t=200"]
+  },
+  {
+    "text": "What is the main risk of backpropagation?",
+    "answers": [
+      "Decreasing the precision to increase the recall",
+      "Decreasing the recall to inscrease the precision",
+      "Security branches",
+      "Overfitting a training data set"
+    ],
+    "correct": 3,
+    "sources": ["https://youtu.be/lgKrup5oi_A?t=654"]
+  },
+  {
+    "text": "When an AI agent recognizes different properties and creates categories, it is",
+    "answers": [
+      "Supervised learning",
+      "Dynamic learning",
+      "Unsupervised learning",
+      "Reinforcement learning"
+    ],
+    "correct": 2,
+    "sources": ["https://youtu.be/JnnaDNNb380?t=137"]
+  },
+  {
+    "text": "In which domain does AI get many applications?",
+    "answers": [
+      "All these domains",
+      "Gaming",
+      "Vision systems",
+      "Speech recognition"
+    ],
+    "correct": 0,
+    "sources": ["https://www.javatpoint.com/application-of-ai"]
+  },
+  {
+    "text": "When is a machine said to have artificial intelligence?",
+    "answers": [
+      "If it can input and output data",
+      "If it can solve a human problem",
+      "If it has one (or more) algorithm(s)",
+      "If it can interpret data, learn from data, and adapt"
+    ],
+    "correct": 3,
+    "sources": ["https://youtu.be/a0_lo_GDcFw?t=109"]
+  },
+  {
+    "text": "What tell us how much we should trust an AI program when it has found something?",
+    "answers": ["Recall", "Efficiency", "Accuracy", "Precision"],
+    "correct": 3,
+    "sources": ["https://youtu.be/4qVRBYAdLAo?t=747"]
+  },
+  {
+    "text": "What are the 2 main parts of a neural network?",
+    "answers": [
+      "Architecture & Weights",
+      "Value & Policy",
+      "Bias & Weights",
+      "Architecture & Policy"
+    ],
+    "correct": 0,
+    "sources": ["https://youtu.be/lgKrup5oi_A?t=51"]
+  },
+  {
+    "text": "What is the global idea of evolutionary neural networks?",
+    "answers": [
+      "All these answers",
+      "It is a dynamic algorithm choosing its future actions by benchmarking the past ones",
+      "Like living species, the best at surviving get to pass on their genes",
+      "Like living species, it continuously adapts to its environment"
+    ],
+    "correct": 0,
+    "sources": ["https://chat.openai.com/chat"]
+  },
+  {
+    "text": "Deep learning uses old existing techniques",
+    "answers": [
+      "Both true and false",
+      "True",
+      "False",
+      "Neither true nor false"
+    ],
+    "correct": 1,
+    "sources": ["https://chat.openai.com/chat"]
+  },
+  {
+    "text": "What does the architecture of a neural network contains ?",
+    "answers": [
+      "Neurons & Weights",
+      "Values & Bias",
+      "Neurons & Connections",
+      "Bias & Weights"
+    ],
+    "correct": 3,
+    "sources": ["https://imgur.com/a/9DCi9jq"]
+  },
+  {
+    "text": "Choose one advantage that AI systems have upon humans",
+    "answers": [
+      "They are consistent and won't made mistakes because they're tired or hungry",
+      "AI systems understand the moral implications of their decisions",
+      "They have societal values and morals",
+      "They are good at insights, creativity, and unserstanding nuances"
+    ],
+    "correct": 0,
+    "sources": ["https://youtu.be/PIAPzioNt9Y?t=63"]
+  },
+  {
+    "text": "What is a knowledge base ?",
+    "answers": [
+      "A database for techers or students",
+      "A deep learning algorithm",
+      "A way of encoding informations",
+      "A tool for gathering data"
+    ],
+    "correct": 0,
+    "sources": ["https://en.wikipedia.org/wiki/Knowledge_base"]
+  },
+  {
+    "text": "Evolutionnary neural networks use the environement as an input, like reinforcement learning",
+    "answers": [
+      "True",
+      "False",
+      "Both true and false",
+      "Neither true nor false"
+    ],
+    "correct": 0,
+    "sources": ["https://imgur.com/a/IxmUt9s"]
+  },
+  {
+    "text": "Learning through feedback from AI's behavior corresponds to",
+    "answers": [
+      "Reinforcement learning",
+      "Supervised learning",
+      "Cluster learning",
+      "Unsupervised learning"
+    ],
+    "correct": 0,
+    "sources": ["https://imgur.com/a/qypwnLG"]
+  },
+  {
+    "text": "Is precision the only thing that matters for AI ?",
+    "answers": [
+      "False",
+      "True",
+      "Both true and false",
+      "Neither true nor false"
+    ],
+    "correct": 0,
+    "sources": ["https://youtu.be/4qVRBYAdLAo?t=855"]
+  },
+  {
+    "text": "Which statement is false ?",
+    "answers": [
+      "Actions have effects",
+      "Consequencies have actions",
+      "Effects requires preconditions",
+      "Actions requires preconditions"
+    ],
+    "correct": 1,
+    "sources": [
+      "https://youtu.be/_U21fT8VLp0?t=310",
+      "https://youtu.be/_U21fT8VLp0?t=314"
+    ]
+  },
+  {
+    "text": "What should be balanced in reinforcement learning ?",
+    "answers": [
+      "Policy and values",
+      "Trial and error",
+      "State and actions",
+      "Exploitation & Exploration"
+    ],
+    "correct": 3,
+    "sources": ["https://youtu.be/nIgIv4IfJ6s?t=419"]
+  },
+  {
+    "text": "When an AI agent always takes the same actions, it is",
+    "answers": [
+      "Mistaking",
+      "Exploring",
+      "Exploiting",
+      "Learning machine invention"
+    ],
+    "correct": 2,
+    "sources": [
+      "https://youtu.be/nIgIv4IfJ6s?t=425",
+      "https://imgur.com/a/U2tmal5"
+    ]
+  },
+  {
+    "text": "What do reinforcement learning methods need?",
+    "answers": [
+      "A lot of time",
+      "A lot of CPU power",
+      "A lot of money",
+      "A lot of RAM"
+    ],
+    "correct": 0,
+    "sources": ["https://youtu.be/nIgIv4IfJ6s?t=625"]
+  },
+  {
+    "text": "Which tool facilitates the calculation of an AI accuracy ?",
+    "answers": [
+      "The step function",
+      "The confusion matrix",
+      "The distribution graph",
+      "The bias"
+    ],
+    "correct": 1,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Confusion_matrix",
+      "https://youtu.be/4qVRBYAdLAo?t=708"
+    ]
+  },
+  {
+    "text": "NLP stands for ?",
+    "answers": [
+      "National League of Pokemons",
+      "Natural Language Processing",
+      "New Language Paradigm",
+      "Neuroscientific Learning by Peers"
+    ],
+    "correct": 1,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Natural_language_processing",
+      "https://youtu.be/fOvTtapxa9c?t=67"
+    ]
+  },
+  {
+    "text": "Overfitting issues may increase according to",
+    "answers": [
+      "Neural network velocity ",
+      "Neural network complexity",
+      "Neural network precision",
+      "Neural network recall"
+    ],
+    "correct": 1,
+    "sources": ["https://youtu.be/lgKrup5oi_A?t=691"]
+  },
+  {
+    "text": "Which event is widely considered to be the foundation of AI as a field?",
+    "answers": [
+      "The IEEE Symposium on Foundations of Computer Science (FOCS)",
+      "The ACM Symposium on Theory of Computing",
+      "The ACM Conference on Information and Knowledge Manegemet",
+      "The Dartmouth Summer Reasearch Project"
+    ],
+    "correct": 3,
+    "sources": ["https://youtu.be/a0_lo_GDcFw?t=299"]
+  },
+  {
+    "text": "What is the key of reinforcement learning?",
+    "answers": [
+      "Algorithm low complexity",
+      "CPU's speed",
+      "Trial and error",
+      "Use of Neural Networks"
+    ],
+    "correct": 2,
+    "sources": ["https://youtu.be/nIgIv4IfJ6s?t=117"]
+  },
+  {
+    "text": "The current location of an AI agent in a environement is",
+    "answers": ["Actions", "State", "Value", "Policy"],
+    "correct": 1,
+    "sources": ["https://imgur.com/a/g8rWqzn"]
+  },
+  {
+    "text": "What do natural languages have, but machine languages don't ?",
+    "answers": [
+      "Word play",
+      "Word with different meanings",
+      "Speaking accents",
+      "All these answers"
+    ],
+    "correct": 3,
+    "sources": ["https://imgur.com/a/dCdJUL4"]
+  },
+  {
+    "text": "Which one is not a main type of learning for AI systems ?",
+    "answers": [
+      "Unsupervised learning",
+      "Supervised learnings",
+      "Reinforcement learning",
+      "Social learning"
+    ],
+    "correct": 3,
+    "sources": [
+      "https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_l%27apprentissage_social"
+    ]
+  },
+  {
+    "text": "Chatbots can train themselves by learning from by humans-to-humans conversations?",
+    "answers": [
+      "True",
+      "False",
+      "Both true and false",
+      "Neither true nor false"
+    ],
+    "correct": 0,
+    "sources": ["https://imgur.com/a/EBJaPyZ"]
+  },
+  {
+    "text": "What tell us how much an AI program can find of the thing you're looking for ?",
+    "answers": ["Efficiency", "Accuracy", "Recall", "Precision"],
+    "correct": 2,
+    "sources": ["https://youtu.be/4qVRBYAdLAo?t=769"]
+  },
+  {
+    "text": "About reinforcement learning, what comes hand in hand ?",
+    "answers": [
+      "Trial & State",
+      "Policy and State",
+      "Trial and values",
+      "Policy and values"
+    ],
+    "correct": 3,
+    "sources": ["https://youtu.be/nIgIv4IfJ6s?t=251"]
+  },
+  {
+    "text": "Which one between recall and precision needs to do the highest for an AI program ?",
+    "answers": [
+      "Precision",
+      "Recall",
+      "None of them",
+      "It depends of the problem we are facing"
+    ],
+    "correct": 3,
+    "sources": ["https://youtu.be/4qVRBYAdLAo?t=835"]
+  },
+  {
+    "text": "How is the AI learning by “trial & error” called ?",
+    "answers": [
+      "Neural networks",
+      "Unsupervised learning",
+      "Reinforcement learning",
+      "Supervised learning"
+    ],
+    "correct": 2,
+    "sources": ["https://youtu.be/nIgIv4IfJ6s?t=117"]
+  },
+  {
+    "text": "A kid riding and falling from a bike is",
+    "answers": [
+      "Unsupervised learning",
+      "Reinforcement learning",
+      "Cluster analysis",
+      "Supervised learning"
+    ],
+    "correct": 1,
+    "sources": ["https://imgur.com/a/Yo6Tf8X"]
+  },
+  {
+    "text": "How does the Monte Carlo algorithm work ?",
+    "answers": [
+      "It uses heuristics",
+      "It uses multithreading",
+      "It uses randomness",
+      "It uses quantum calculations"
+    ],
+    "correct": 2,
+    "sources": ["https://imgur.com/a/1z7QlXY"]
+  },
+  {
+    "text": "About AI future, which statement has been predicted ?",
+    "answers": [
+      "AI-specific hardware",
+      "All these answers",
+      "AI will create more jobs than it destroys",
+      "Kubernetes containers will become part of the AI pipeline"
+    ],
+    "correct": 1,
+    "sources": ["https://imgur.com/a/GrQvzmM"]
+  }
+]
